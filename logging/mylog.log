@@ -1,0 +1,81 @@
+[2024-10-21 21:10:03,097] Tatiana/INFO/locust.main: Starting Locust 2.31.8
+[2024-10-21 21:10:03,098] Tatiana/INFO/locust.main: Run time limit set to 10 seconds
+[2024-10-21 21:10:03,100] Tatiana/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2024-10-21 21:10:03,286] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:04,262] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:04,325] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:05,241] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:05,364] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:10:05,766] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:06,238] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:06,284] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:06,407] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:10:06,798] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:10:07,133] Tatiana/INFO/locust.runners: All users spawned: {"LoadTest": 5} (5 total users)
+[2024-10-21 21:10:07,262] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:07,273] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:07,317] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:10:07,439] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:08,210] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:10:08,302] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:08,311] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:10:08,363] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:10:08,473] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:09,250] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:09,351] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:10:09,353] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:10:09,404] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:09,515] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:10:10,289] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:10,390] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:10,398] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:10:10,548] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:10:10,918] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:11,330] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:10:11,429] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:10:11,430] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:11,866] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:10:11,957] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:10:12,191] Tatiana/INFO/locust.main: --run-time limit reached, shutting down
+[2024-10-21 21:10:12,339] Tatiana/INFO/locust.main: Shutting down (exit code 1)
+[2024-10-21 21:11:51,384] Tatiana/INFO/locust.main: Starting Locust 2.31.8
+[2024-10-21 21:11:51,384] Tatiana/INFO/locust.main: Run time limit set to 10 seconds
+[2024-10-21 21:11:51,386] Tatiana/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2024-10-21 21:11:51,571] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:52,611] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:11:52,699] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:53,543] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:53,749] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:11:54,088] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:11:54,544] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:54,578] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:11:54,793] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:11:55,138] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:11:55,429] Tatiana/INFO/locust.runners: All users spawned: {"LoadTest": 5} (5 total users)
+[2024-10-21 21:11:55,556] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:55,589] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:11:55,614] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:11:56,029] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:11:56,180] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:56,599] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:11:56,632] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:11:56,660] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:11:57,064] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:57,211] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:11:57,630] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:11:57,699] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:57,875] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:11:58,111] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:11:58,249] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:11:58,674] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:11:58,921] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:59,108] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:11:59,154] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:11:59,293] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:11:59,714] Tatiana/INFO/root: GET for /html processed successfully
+[2024-10-21 21:11:59,960] Tatiana/INFO/root: GET for /json processed successfully
+[2024-10-21 21:12:00,158] Tatiana/ERROR/root: GET for /status/404 failed
+[2024-10-21 21:12:00,188] Tatiana/INFO/root: POST for /post processed successfully
+[2024-10-21 21:12:00,308] Tatiana/INFO/locust.main: --run-time limit reached, shutting down
+[2024-10-21 21:12:08,462] Tatiana/INFO/locust.main: writing html report to file: report.html
+[2024-10-21 21:12:08,469] Tatiana/INFO/locust.main: Shutting down (exit code 1)
